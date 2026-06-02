@@ -1,0 +1,14 @@
+# Internal working notes — not for the public repo
+trajetoria.md
+analises-cscore.md
+guia-portfolio-tecnico.md
+site-empresa-portfolio-link.md
+
+# Local tooling config
+.claude/
+
+# OS / editor junk
+.DS_Store
+*.swp
+.idea/
+.vscode/
