@@ -6,7 +6,7 @@ Each case study follows the same structure: context, constraints, decision ratio
 
 ## About me
 
-Full-stack engineer based in the interior of São Paulo, Brazil, B.Sc. in Computer Science from IFSP (2024), and founder of [Jon Labs](https://jonlabs.com.br). Currently technical co-founder and 10% partner in a subscription platform with **thousands of paying subscribers**. Before going full-time on the platform in 2024, I worked at a geomarketing and consulting firm, where I built GIS visualization tools, and, separately, platforms for academic events.
+Full-stack engineer based in the interior of São Paulo, Brazil, B.Sc. in Computer Science from IFSP (2024), and founder of [Jonlabs](https://jonlabs.com.br). Currently technical co-founder and 10% partner in a subscription platform with **thousands of paying subscribers**. Before going full-time on the platform in 2024, I worked at a geomarketing and consulting firm, where I built GIS visualization tools, and, separately, platforms for academic events.
 
 I work most often on real-time data pipelines, subscription product surfaces, and AI assistants grounded on live domain data.
 
