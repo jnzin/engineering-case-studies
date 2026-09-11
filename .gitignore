@@ -12,3 +12,6 @@ site-empresa-portfolio-link.md
 *.swp
 .idea/
 .vscode/
+
+# Internal working notes (LinkedIn)
+linkedin-perfil.md

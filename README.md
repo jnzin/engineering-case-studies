@@ -20,6 +20,7 @@ I work most often on real-time data pipelines, subscription product surfaces, an
 | # | Project | Domain | Role |
 |---|---------|--------|------|
 | 01 | [Sports Probability Platform](./01-probability-platform/README.md) | Sports analytics · subscriptions | Technical co-founder · full-stack |
+| 02 | [Three Consumer Apps, Three Mobile Architectures](./02-mobile-architectures/README.md) | Consumer mobile · iOS + Android | Solo developer |
 
 _More case studies in progress._
 
